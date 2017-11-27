@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\bin\Debug\Dz_Lesson_4_exceptions.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\bin\Debug\Dz_Lesson_4_exceptions.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\bin\Debug\Dz_Lesson_4_exceptions.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\obj\Debug\Dz_Lesson_4_exceptions.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\obj\Debug\Dz_Lesson_4_exceptions.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Dz_Lesson_4_exceptions\Dz_Lesson_4_exceptions\obj\Debug\Dz_Lesson_4_exceptions.pdb
